@@ -6,4 +6,4 @@
    * **`CV#1:`** <https://qa-maks-bat.github.io/rsschool-cv/cv>
 
 2. Link to **CV#2** created in markup page (HTML) format as a result of the task **HTML, CSS & Git Basics**:
-   * **`CV#2:`** <https://qa-maaks-bat.github.io/rsschool-cv/>
+   * **`CV#2:`** <https://qa-maks-bat.github.io/rsschool-cv/>
