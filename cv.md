@@ -13,10 +13,14 @@
   * ![LinkedIn](/icons/linkedin-icon-16x16.png) **LinkedIn:** *[maksi-batr](https://www.linkedin.com/in/maksi-batr/)*
   * ![GitHub](/icons/github-icon-16x16.png) **Github:** *[maks-gitbat](https://github.com/qa-maks-bat)*
   * ![Discord](/icons/discord-icon-16x16.png) **Discord:** *Maksim Batrakou#8082*
-  
+
+---
+
 ### `Briefly About Me:`
 
 > *I am currently learning the JavaScript/Front-end. Stage 0. Preparatory Course from  The Rolling Scopes School and the QA cource by Vadim Ksendzov. Also I often watch the Artsiom Rusau QA Life channel on YouTube. As well I google a lot about IT because I want to learn new skills that can get me into IT World*
+
+---
 
 ### `Skills:`
 
@@ -25,11 +29,15 @@
 * *MS Project, OneDrive*
 * *Agile, Scrum, Project Management (PMBOK)*
 
+---
+
 ### `Code example:`
 
 ```SQL
 SELECT price * amount AS total FROM items
 ```
+
+---
 
 ### `Courses:`
 
@@ -47,6 +55,8 @@ SELECT price * amount AS total FROM items
   * *Software Testing Preparatory Course from the SkillUP Training Center;*
   * *English courses, Minsk State Linguistic University, from Starter (2016) to Pre-Intermediate level (2018)*
 
+---
+
 ### `Education:`
 
 * `2005:`
@@ -56,6 +66,8 @@ SELECT price * amount AS total FROM items
   * *`Belarusian National Technical University`*
     * *Faculty of Power Engineering, Electrical Engineering*
     * *Bachelor of Engineering Science, Electrical Engineer*
+
+---
 
 ### `Languages:`
 
