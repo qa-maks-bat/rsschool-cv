@@ -6,8 +6,6 @@
 
 ---
 
-</br>
-
 ## `Contact Information:`
 
 * ![Locatoin](/icons/location-icon-16x16.png) **Location:** *Minsk, Belarus (willing to relocate)*
@@ -18,18 +16,13 @@
   * ![GitHub](/icons/github-icon-16x16.png) **Github:** *[maks-gitbat](https://github.com/qa-maks-bat)*
   * ![Discord](/icons/discord-icon-16x16.png) **Discord:** *Maksim Batrakou#8082*
   
-
 ---
-
-</br>
 
 ## `Briefly About Me:`
 
 > *I am currently learning the JavaScript/Front-end. Stage 0. Preparatory Course from  The Rolling Scopes School and the QA cource by Vadim Ksendzov. Also I often watch the Artsiom Rusau QA Life channel on YouTube. As well I google a lot about IT because I want to learn new skills that can get me into IT World*
 
 ---
-
-</br>
 
 ## `Skills:`
 
@@ -40,8 +33,6 @@
 
 ---
 
-</br>
-
 ## `Code example:`
 
 ```SQL
@@ -50,8 +41,6 @@ SELECT price * amount AS total FROM items
 
 ---
 
-</br>
-
 ## `Courses:`
 
 * `2022:`
@@ -59,7 +48,7 @@ SELECT price * amount AS total FROM items
   * *QA Course by Vadim Ksendzov (in progress);*
   * *the Artsiom Rusau QA Life channel on YouTube (in progress)*
 * `2021:`
-  * *Agile Scrum from scratch to Scrum Master. Online Course by Alex Kostritsa on Udemy.com. ![UDEMY](/icons/udemy-icon-16x16.png) [Certificate of completion](/images/cert-scrum-udemy-1600x1190.jpg)*
+  * *Agile Scrum from scratch to Scrum Master. Online Course by Alex Kostritsa on Udemy.com. ![UDEMY](/icons/udemy-icon-16x16.png) [Certificate of completion](/images/cert-scrum-udemy-800x595.jpg)*
 * `2020:`
   * *Deployment of Project Online in the cloud and training in the use of Project Web App uder the guidance of EVOK Systems LLC*
 * `2019:`
@@ -69,8 +58,6 @@ SELECT price * amount AS total FROM items
   * *English courses, Minsk State Linguistic University, from Starter (2016) to Pre-Intermediate level (2018)*
 
 ---
-
-</br>
 
 ## `Education:`
 
@@ -83,8 +70,6 @@ SELECT price * amount AS total FROM items
     * *Bachelor of Engineering Science, Electrical Engineer*
 
 ---
-
-</br>
 
 ## `Languages:`
 
