@@ -1,6 +1,6 @@
 # **`Maksim Batrakou (CV)`**
 
-![My photo](/images/my-photo-avatar-100x100.jpg "avatar")
+![My_photo](/images/avatar-100x100.jpg)
 
 ## **`Junior Frontend Developer`**
 
