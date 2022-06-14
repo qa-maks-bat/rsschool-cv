@@ -1,0 +1,123 @@
+@font-face {
+  font-family: Joan;
+  src: url("./assets/fonts/joan/Joan-Regular.ttf");
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family:"Joan";
+  font-size: 18px;
+  line-height: 1.5;
+  min-height: 100vh;
+  color: #4d2323;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.header {
+  border: 1px solid #ff0000;
+}
+
+.main {
+  border: 1px solid #ff0000;
+}
+
+.footer {
+  border: 1px solid #ff0000;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-item {
+  color: #1228ef;
+  text-decoration: none;  
+  transition: color 0.3s;
+}
+.nav-item:hover {
+  color: #4d2323;
+}
+
+.nav-link {
+  padding: 0 10px;
+  line-height: 10px;
+  transition: 0.3s;
+}
+
+.section {
+  width: 50%;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 50%;
+  }
+}
+
+.section-title {
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #ce1c1c;
+}
+
+.section-item {
+  position: relative;
+  padding-left: 30px;
+  list-style: none;
+}
+
+.section-item::before {
+  content: "";
+  position: absolute;
+  top: 8px;
+  left: 0px;
+  width: 10px;
+  height: 10px; 
+  border: 1px solid #b31b7e;
+  border-radius: 50%;
+}
+
+.section-paragraph {
+  
+}
+
+.profile-img {
+  width: 200px;
+  height: 200px;
+}
+
+.link {
+  text-decoration: none;
+  color: #829985;
+  transition: color 0.5s;
+}
+
+.link:hover {
+  color: #5d7260;
+}
