@@ -1,24 +1,24 @@
 # **`Maksim Batrakou (CV)`**
 
-![My_photo](/images/avatar-100x100.jpg)
+![My_photo](/assets/img/avatar-100x100.jpg)
 
 ## **`Junior Frontend Developer`**
 
 ### `Contact Information:`
 
-* ![Locatoin](/icons/location-icon-16x16.png) **Location:** *Minsk, Belarus (willing to relocate)*
-* ![Smartphone](/icons/smartphone-icon-16x16.png) **Mobile phone:** *+375 29 342 79 57*
-* ![E-mail](/icons/email-icon-16x16.png) **E-mail:**   *qa.maksim.batrakou@gmail.com*
-  * ![Telegram](/icons/telegram-icon-16x16.png) **Telegram:** *[@maks_tbat](https://t.me/maks_tbat)*
-  * ![LinkedIn](/icons/linkedin-icon-16x16.png) **LinkedIn:** *[maksi-batr](https://www.linkedin.com/in/maksi-batr/)*
-  * ![GitHub](/icons/github-icon-16x16.png) **Github:** *[maks-gitbat](https://github.com/qa-maks-bat)*
-  * ![Discord](/icons/discord-icon-16x16.png) **Discord:** *Maksim Batrakou#8082*
+* ![Location](/assets/icon/png/location-icon-16x16.png) **Location:** *Minsk, Belarus (willing to relocate)*
+* ![Smartphone](/assets/icon/png/smartphone-icon-16x16.png) **Mobile phone:** *+375 29 342 79 57*
+* ![E-mail](/assets/icon/png/email-icon-16x16.png) **E-mail:**   *qa.maksim.batrakou@gmail.com*
+  * ![Telegram](/assets/icon/png/telegram-icon-16x16.png) **Telegram:** *[@maks_tbat](https://t.me/maks_tbat)*
+  * ![LinkedIn](/assets/icon/png/linkedin-icon-16x16.png) **LinkedIn:** *[maksi-batr](https://www.linkedin.com/in/maksi-batr/)*
+  * ![GitHub](/assets/icon/png/github-icon-16x16.png) **Github:** *[maks-gitbat](https://github.com/qa-maks-bat)*
+  * ![Discord](/assets/icon/png/discord-icon-16x16.png) **Discord:** *Maksim Batrakou#8082*
 
 ---
 
 ### `Briefly About Me:`
 
-> *I am currently learning the JavaScript/Front-end. Stage 0. Preparatory Course from  The Rolling Scopes School and the QA cource by Vadim Ksendzov. Also I often watch the Artsiom Rusau QA Life channel on YouTube. As well I google a lot about IT because I want to learn new skills that can get me into IT World*
+> *I am currently learning the JavaScript/Front-end. Stage 0. Preparatory Course from  The Rolling Scopes School and the QA Cource by Vadim Ksendzov. Also I often watch the Artsiom Rusau QA Life channel on YouTube. As well I google a lot about IT because I want to learn new skills that can get me into IT World*
 
 ---
 
@@ -46,9 +46,9 @@ SELECT price * amount AS total FROM items
   * *QA Course by Vadim Ksendzov (in progress);*
   * *the Artsiom Rusau QA Life channel on YouTube (in progress)*
 * `2021:`
-  * *Agile Scrum from scratch to Scrum Master. Online Course by Alex Kostritsa on Udemy.com. ![UDEMY](/icons/udemy-icon-16x16.png) [Certificate of completion](/images/cert-scrum-udemy-800x595.jpg)*
+  * *Agile Scrum from scratch to Scrum Master. Online Course by Alex Kostritsa on Udemy.com. ![UDEMY](/assets/icon/png//udemy-icon-16x16.png) [Certificate of completion](/assets/certif/cert-scrum-udemy-800x595.jpg)*
 * `2020:`
-  * *Deployment of Project Online in the cloud and training in the use of Project Web App uder the guidance of EVOK Systems LLC*
+  * *Deployment of Project Online in the cloud and training in the use of Project Web App under the guidance of EVOK Systems LLC*
 * `2019:`
   * *English courses, En-Discovery English School, Intermediate level*
 * `2018:`
